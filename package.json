@@ -1,0 +1,11 @@
+{
+  "name": "sulavregmi.com",
+  "version": "0.1.0",
+  "author": "Sulav Regmi",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-notify": "^0.4.1",
+    "grunt-scss-lint": "^0.3.4"
+  }
+}
